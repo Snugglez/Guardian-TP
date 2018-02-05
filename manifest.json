@@ -1,0 +1,11 @@
+{
+  "files": {
+    "C_GUARDIAN_TP.1.def": "42202845a14546a5b0bf64494452677ff344cd07bebedb01efda9e27aa66367d",
+    "index.js": "21875d0c3e5550961ad51cb45483167a06187e67ce0173952095ef75a6abf157",
+    "module.json": "3ee3743552e58e75520f4fa4981b439e63f76eea181f20aa0bdbcc9b920fba05",
+    "README.md": "6b55ce9c54522b8ec31529c9e97dcc0ae4044fd7a21114bdee8ef5d814d2e80b"
+  },
+     "defs": {
+    "C_GUARDIAN_TP": 1
+  }
+}
