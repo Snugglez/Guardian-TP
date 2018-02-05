@@ -28,5 +28,16 @@ to
 
 The same goes for any other command, as long as they don't conflict with another modules commands
 
+
+Extra installation (until its properly added in tera-data)
+
+included is the def C_GUARDIAN_TP (name is wip, I think the final name will be something like C_REQUEST_FIELD_EVENT_TELEPORT)
+
+Place the def inside `tera-proxy/node_modules/tera-data/protocol` NOT THE node_modules FOLDER INSIDE BIN
+
+Place the below opcode for your region in your opcode maps in `tera-proxy/node_modules/tera-data/map` 
+
+NA = protocol.326439.map
+
 NA OPCODE
 `C_GUARDIAN_TP = 54316`
