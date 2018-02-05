@@ -27,3 +27,6 @@ to
 
 
 The same goes for any other command, as long as they don't conflict with another modules commands
+
+NA OPCODE
+`C_GUARDIAN_TP = 54316`
