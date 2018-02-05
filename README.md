@@ -15,20 +15,6 @@ The commands should be pretty self explanatory
 
 Exclude the "!" if used in /8 or proxy chat channel
 
-Commands are also easily changed if need be in the script
-
-for example if you would want `!gut` to be something like `!gtp1` just change
-
-`command.add('gut', () => {`
-
-to
-
-`command.add('gtp1', () => {`
-
-
-The same goes for any other command, as long as they don't conflict with another modules commands
-
-
 Extra installation (until its properly added in tera-data)
 
 included is the def C_GUARDIAN_TP (name is wip, I think the final name will be something like C_REQUEST_FIELD_EVENT_TELEPORT)
